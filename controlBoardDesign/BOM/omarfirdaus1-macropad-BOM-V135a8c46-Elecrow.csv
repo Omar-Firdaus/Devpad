@@ -1,0 +1,35 @@
+﻿*Reference,*Manufacturer Part number,*QTY,*Original,Description,Purchase Link
+"","","4","","PCB mounting hole specifically for M3 screws. Change the 3D model asset for longer screws.","https://www.mcmaster.com/screws/drive-style~torx/rounded-head-style~pan/material~steel/specifications-met~iso-7045/thread-size~m3/finish~zinc-plated/"
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9","1N4148W-13-F","12","","Switching Diode
+1N4148W-13-F
+SOD-123_L2.7-W1.6-LS3.7-RD
+LCSC Part Number: C112342
+JLCPCB Part Class: Extended Part
+Manufactured by DIODES(美台) ","https://lcsc.com/product-detail/Switching-Diode_DIODES_1N4148W-13-F_1N4148W-13-F_C112342.html"
+"J1, J2, J3, J4","","4","","PAD WITH HOLE 4mmx1.5mm",""
+"LED1, LED10, LED13, LED14, LED15, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9","SK6812MINI-E","13","","Addressable RGB LEDs 3.2x2.8x1.78 mm 0.2W Intelligent external
+control surface mount SMD LED #CommonPartsLibrary #LED #Addressable ",""
+"P2","","1","","An electrical connector acting as reusable interface to a conductor and creating a point where external circuits can be connected.",""
+"SW1, SW10, SW11, SW12, SW13, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9","MX1A-11NW","13","","Pushbutton Switch SPST-NO Keyswitch Through Hole 
+This switch is used in keyboards like: 
+Planck 
+Vortexgear
+KBD67
+ErgoDox
+leopold 
+WorkLo uder
+Varmilo 
+Ducky
+Durgod 
+Mistel 
+Keebio Iris
+iKBC 
+WASD 
+Keychron
+Filco
+and many others
+#Cherry #CherryMX ",""
+"U1","102010428","1","","The Seeed Studio XIAO RP2040 is as small as the Seeed Studio XIAO SAMD21 but it's more powerful. On one hand, it carries the powerful Dual-core RP2040 processor that can flexible clock running up to 133 MHz which is a low-power microcontrollers. On the Seeed Studio XIAO RP2040 there is also 264KB of SRAM, and 2MB of on-board Flash memory which can provide more program to save and run. On the other hand, this little board has good performance in processing but needs less power.
+All in all, it is designed in a tiny size as small as a thumb(20x17.5mm) and can be used for wearable devices and small projects. #RP2040 #PICO #XIAO #SeedStudio",""
+"U2","","1","","I2C Display Module 0.91 Inch I2C SSD1306 OLED Display Module",""
+"U3, U4","PEC11R-4215F-S0024","2","","Rotary Encoder Mechanical 24 Quadrature (Incremental) Vertical",""

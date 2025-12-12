@@ -1,0 +1,10 @@
+﻿Item #,Designator,Qty,Manufacturer,Mfg Part #,Description / Value,Package/Footprint,Type,Your Instructions / Notes
+"1","","4","","","","","",""
+"2","D1,D10,D11,D12,D2,D3,D4,D5,D6,D7,D8,D9","12","DIODES(美台)","1N4148W-13-F","Switching Diode, SOD-123_L2.7-W1.6-LS3.7-RD","SOD-123_L2.7-W1.6-LS3.7-RD","",""
+"3","J1,J2,J3,J4","4","","","","","",""
+"4","LED1,LED10,LED13,LED14,LED15,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9","13","OPSCO Optoelectronics","SK6812MINI-E","LED","","",""
+"5","P2","1","","","","","",""
+"6","SW1,SW10,SW11,SW12,SW13,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","13","Cherry Americas LLC","MX1A-11NW","Switch","","",""
+"7","U1","1","Seeed Studios","102010428","Microcontroller","","",""
+"8","U2","1","","","Display Device","","",""
+"9","U3,U4","2","Bourns Inc.","PEC11R-4215F-S0024","Encoder","","",""
